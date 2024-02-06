@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **gurpreet012guru@gmail.com**
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/1B6ufsqJMmJynP9Nq27kCqTVDAq5YgC4u/view?usp=sharing](https://drive.google.com/file/d/1B6ufsqJMmJynP9Nq27kCqTVDAq5YgC4u/view?usp=sharing)](https://drive.google.com/file/d/15-aWgo3yjZbcBtyTNXBL-LtZHwl3QaPO/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/15-aWgo3yjZbcBtyTNXBL-LtZHwl3QaPO/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
