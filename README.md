@@ -14,7 +14,7 @@
   <a href="https://github.com/gurpreet1961" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://drive.google.com/file/d/17vPGtniTkU_n8BAIFUlK-ux_jVuj4ccP/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/10x1r1hcas68V1Iwei_J7TbFInZ3P233c/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" />
   </a>
   <a href="mailto:gurpreet012guru@gmail.com">
@@ -57,7 +57,7 @@
 
 ## 🚀 Featured Project
 
-### [The Human Laboratory](https://drive.google.com/file/d/17vPGtniTkU_n8BAIFUlK-ux_jVuj4ccP/view?usp=sharing) — Fitness Platform
+### [The Human Laboratory](#) — Fitness Platform
 > Calisthenics & yoga platform with integrated session booking
 
 - 📈 Improved booking conversions by **~30–40%** through UX redesign
